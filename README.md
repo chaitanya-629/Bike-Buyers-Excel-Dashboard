@@ -22,18 +22,13 @@ Customer details include:
 
 ## Analysis Performed
 - Income vs Bike Purchase
-- Region-wise Purchase Trends
 - Age Group Analysis
 - Commute Distance Impact
 
 ## Files
-- Excel Project Dataset.xlsx
-- images/ (dashboard screenshots)
+- Bike Sales.xlsx
+- Images/ (dashboard screenshots)
 
-## Dashboard Preview
-![Dashboard](images/dashboard.png)
+## 📸 Dashboard Preview
+![Dashboard](Images/Dashboard.png)
 
-## Key Learnings
-- Data visualization techniques in Excel
-- Using pivot tables for analysis
-- Creating business dashboards
